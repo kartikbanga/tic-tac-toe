@@ -59,4 +59,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 Have fun playing Tic Tac Toe and experimenting with the ReactJS code! If you have any questions or need further assistance, please don't hesitate to reach out.
 
-*This README template is a general guideline. You might need to customize it to match your specific project structure and features.*
